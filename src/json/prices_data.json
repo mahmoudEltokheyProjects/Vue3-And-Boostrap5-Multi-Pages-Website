@@ -1,0 +1,35 @@
+[
+  {
+    "priceType": "basic",
+    "priceAmount": "$15",
+    "caption": "Per Month",
+    "link": "hosting-basic.png",
+    "spaceCap": "10GB HDD Space",
+    "emailNum": "5 Email Addresses",
+    "subdomainNum": "2 Subdomains",
+    "databaseNum": "4 Databases",
+    "supportType": "Basic Support"
+  },
+  {
+    "priceType": "advanced",
+    "priceAmount": "$25",
+    "caption": "Per Month",
+    "link": "hosting-advanced.png",
+    "spaceCap": "30GB HDD Space",
+    "emailNum": "10 Email Addresses",
+    "subdomainNum": "5 Subdomains",
+    "databaseNum": "9 Databases",
+    "supportType": "Advanced Support"
+  },
+  {
+    "priceType": "professional",
+    "priceAmount": "$45",
+    "caption": "Per Month",
+    "link": "hosting-professional.png",
+    "spaceCap": "50GB HDD Space",
+    "emailNum": "20 Email Addresses",
+    "subdomainNum": "10 Subdomains",
+    "databaseNum": "20 Databases",
+    "supportType": "professional Support"
+  }
+]

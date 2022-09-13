@@ -1,5 +1,5 @@
 const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
   transpileDependencies: true,
-  publicPath: '/vue3-boostrap5-landing/'
+  publicPath: process.env.NODE_ENV === 'production' ? '/Vue3-And-Boostrap5-Multi-Pages-Website/' : '/'
 });
